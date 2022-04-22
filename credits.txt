@@ -1,0 +1,15 @@
+Heroku CLI
+heroku pg:psql postgresql-asymmetrical-07870 --app my-todo-database
+URI
+postgres://ztdhtbykhnoayp:13db777c30e9bb6c53336c7167afbddf8e705a4c0ad0f0b444cd3e44ee658aef@ec2-34-194-73-236.compute-1.amazonaws.com:5432/deq221ifam04iv
+Password
+13db777c30e9bb6c53336c7167afbddf8e705a4c0ad0f0b444cd3e44ee658aef
+Port
+5432
+User
+ztdhtbykhnoayp
+Database
+deq221ifam04iv
+Host
+ec2-34-194-73-236.compute-1.amazonaws.com
+
